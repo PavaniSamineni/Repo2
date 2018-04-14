@@ -1,0 +1,2 @@
+SimpleIneterest - Send Principle,Time,date from terminal
+Salary - Send Basic Saraly from terminal
